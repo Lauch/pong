@@ -27,3 +27,4 @@ window.addEventListener('load', () => __awaiter(this, void 0, void 0, function* 
         keys.appendChild(newLi);
     });
 }));
+//# sourceMappingURL=index.js.map
