@@ -1,7 +1,7 @@
 {
   "name": "pong",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Pong](Pong.png)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
